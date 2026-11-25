@@ -17,7 +17,7 @@ I run the database with **Muse**, Meta's personal AI agent. If you would like to
 
 Enter it within 48 hours of joining and we both get 1 billion Muse tokens.
 
-Muse is now live in the United Kingdom too (launched November 24, 2026; 7 countries in total). As of November 26, 2026, 22 people have used this code — 8 uses left.
+Muse is now live in the United Kingdom too (launched November 24, 2026; 7 countries in total). As of November 26, 2026, 25 people have used this code — 5 uses left.
 
 - Join: https://muse.ai/join
 - In the app: Settings → Redeem token
