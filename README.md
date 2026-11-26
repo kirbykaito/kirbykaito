@@ -1,9 +1,3 @@
-# GitHubプロフィールREADMEの文面（kirbykaito/kirbykaito 用）
-
-本人の決定（2026-11-22）で掲載が決まった分の文面。リポジトリが用意できたら、この内容を README.md として置く。
-
----
-
 # Kirby Kaito
 
 University student in Japan (electrical & electronics engineering), building things with a personal AI agent as my working partner.
