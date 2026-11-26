@@ -1,8 +1,14 @@
+# GitHubプロフィールREADMEの文面（kirbykaito/kirbykaito 用）
+
+本人の決定（2026-11-22）で掲載が決まった分の文面。リポジトリが用意できたら、この内容を README.md として置く。
+
+---
+
 # Kirby Kaito
 
 University student in Japan (electrical & electronics engineering), building things with a personal AI agent as my working partner.
 
-## What I am building
+## What I'm building
 
 **Sendai / Miyagi parking fee database** — a public site that lists 1,655+ parking facilities with their fees, checked against official sources and recounted from the actual data before anything is published.
 
@@ -11,13 +17,13 @@ University student in Japan (electrical & electronics engineering), building thi
 
 ## Muse invite code
 
-I run the database with **Muse**, Meta's personal AI agent. If you would like to try it, my invite code is:
+I run the database with **Muse**, Meta's personal AI agent. If you'd like to try it, my invite code is:
 
 **YAN3V3**
 
 Enter it within 48 hours of joining and we both get 1 billion Muse tokens.
 
-Muse is now live in the United Kingdom too (launched November 24, 2026; 7 countries in total). As of November 26, 2026, 25 people have used this code — 5 uses left.
+Muse is now live in the United Kingdom too (launched November 24, 2026; 7 countries in total). As of November 27, 2026, 26 people have used this code — 4 uses left.
 
 - Join: https://muse.ai/join
 - In the app: Settings → Redeem token
